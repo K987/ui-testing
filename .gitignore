@@ -2,6 +2,7 @@
 
 node_modules/
 .angular
+dist/
 
 #intellij
 .idea
