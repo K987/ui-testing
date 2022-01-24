@@ -6,3 +6,7 @@ dist/
 
 #intellij
 .idea
+
+#java
+.gradle
+build/
